@@ -1,8 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=b5a7a4&fontAlign=50&fontAlignY=30&text=Backend&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
-
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=b5a7a4&fontAlign=50&fontAlignY=30&text=Backend&desc=developer&descAlign=70&descAlignY=55&height=180&fontSize=40&fontColor=ffffff)
 
 
 ## SKILLS
